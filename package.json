@@ -1,0 +1,15 @@
+{
+  "name": "git-commits",
+  "version": "0.1.0",
+  "description": "Essential skills for improving git commit quality.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NasserBlacker/git-commits.git"
+  },
+  "author": "Nasser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NasserBlacker/git-commits/issues"
+  },
+  "homepage": "https://github.com/NasserBlacker/git-commits#readme"
+}
